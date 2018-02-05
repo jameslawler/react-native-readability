@@ -1,7 +1,6 @@
 # react-native-readability
 > React Native compatible readability
 
-[![npm version](https://badge.fury.io/js/react-native-readability.svg)](https://badge.fury.io/js/react-native-readability)
 [![Build Status](https://api.travis-ci.org/jameslawler/react-native-readability.png?branch=master)](https://api.travis-ci.org/jameslawler/react-native-readability)
 
 A layer on top of the Mozilla Readability module using react-native compatible modules. This module attempts to first clean the HTML of broken elements and tags before extracting the clean HTML.
